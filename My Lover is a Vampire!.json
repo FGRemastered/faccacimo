@@ -5,13 +5,63 @@
   "author": "",
   "cover": "https://i.imgur.com/oe6SZwz.jpeg",
   "chapters": {
-    "01": {
-      "title": "01",
+    "1": {
+      "title": "1",
       "volume": "",
-      "last_updated": "1663563878",
+      "last_updated": "1663564075",
       "groups": {
         "": [
           "https://imgur.com/a/ROq79q3"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1663563943",
+      "groups": {
+        "": [
+          "https://imgur.com/a/TEhNEO4"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1663563985",
+      "groups": {
+        "": [
+          "https://imgur.com/a/2fRjS1W"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1663564016",
+      "groups": {
+        "": [
+          "https://imgur.com/a/1UFgFId"
+        ]
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1663564033",
+      "groups": {
+        "": [
+          "https://imgur.com/a/YZftGgt"
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1663564045",
+      "groups": {
+        "": [
+          "https://imgur.com/a/wPXYmrM"
         ]
       }
     }
